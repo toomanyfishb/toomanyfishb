@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mobolaji and I am a mechanical engineer and an aspiring frontend web developer.
 - 👀 I’m interested in set design, music (I play the guitar) and fashion!
 - 🌱 I’m currently learning Javascript, HTML & CSS but I want to learn Java now.
-- 📫 You can find me on instagram @toomanyfishb and on LinkedIn -> https://www.linkedin.com/in/mobolaji-babalola-a97b4a136/
+- 📫 You can find me on LinkedIn -> https://www.linkedin.com/in/mobolaji-babalola-a97b4a136/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love languages! I am learning French, Spanish, Polish, Romanian & Yoruba.
